@@ -1,0 +1,145 @@
+Author,Year,Condition,Control,Group.or.Individual,Sample Size,Age,Percent.Male,Percent.White,MMSE,PEDro,Treatment.Length,Tx.Sesson.Duration,Treatment.Frequency,Measure.Name,Method,Constructs,Higher.Score.Direction,Mean.Pre,SD.Pre,Mean.Post,SD.Post,Mean.Change
+Barnes et al.,2013,Combined,Active Control,Group,32,74.8,37.5,65.6,NR,9,12,1,3,"Rey Auditory Verbal Learning Test, # words learned",Cognitive,COG - memory,1,41.2,10.2,NR,NR,-0.04
+Barnes et al.,2013,Combined,Active Control,Group,32,74.8,37.5,65.6,NR,9,12,1,3,"Rey Auditory Verbal Learning Test, # words recalled",Cognitive,COG - memory,1,7.1,2.9,NR,NR,-0.07
+Barnes et al.,2013,Combined,Active Control,Group,32,74.8,37.5,65.6,NR,9,12,1,3,"verbal fluency, letter",Cognitive,COG - exec fx,1,12.8,4.6,NR,NR,0.22
+Barnes et al.,2013,Combined,Active Control,Group,32,74.8,37.5,65.6,NR,9,12,1,3,"verbal fluency, category",Cognitive,COG - language,1,18.6,4.4,NR,NR,0.18
+Barnes et al.,2013,Combined,Active Control,Group,32,74.8,37.5,65.6,NR,9,12,1,3,Digit Symbol Substitution Test,Cognitive,COG - attention,1,56.6,11,NR,NR,0.08
+Barnes et al.,2013,Combined,Active Control,Group,32,74.8,37.5,65.6,NR,9,12,1,3,Trails A,Cognitive,COG - attention,-1,44.4,14.8,NR,NR,-0.36
+Barnes et al.,2013,Combined,Active Control,Group,32,74.8,37.5,65.6,NR,9,12,1,3,Trails B,Cognitive,COG - exec fx,-1,87.6,31.1,NR,NR,-0.25
+Barnes et al.,2013,Combined,Active Control,Group,32,74.8,37.5,65.6,NR,9,12,1,3,"Eriksen Flanker Test, congruent reaction time",Cognitive,COG - exec fx,-1,659.2,136.5,NR,NR,-0.33
+Barnes et al.,2013,Combined,Active Control,Group,32,74.8,37.5,65.6,NR,9,12,1,3,"Eriksen Flanker Test, incongruent reaction time",Cognitive,COG - exec fx,-1,732.6,147.7,NR,NR,-0.33
+Barnes et al.,2013,Combined,Active Control,Group,32,74.8,37.5,65.6,NR,9,12,1,3,"Useful Field of View, processing speed",Cognitive,COG - attention,-1,34.6,35.6,NR,NR,-0.39
+Barnes et al.,2013,Combined,Active Control,Group,32,74.8,37.5,65.6,NR,9,12,1,3,"Useful Field of View, divided attention",Cognitive,COG - attention,-1,117,124.3,NR,NR,-0.62
+Barnes et al.,2013,Combined,Active Control,Group,32,74.8,37.5,65.6,NR,9,12,1,3,"Useful Field of View, selective attention",Cognitive,COG - attention,-1,234.3,107.5,NR,NR,-0.71
+Barnes et al.,2013,Cognitive,Active Control,Group,31,73.8,41.9,71,NR,9,12,1,3,"Rey Auditory Verbal Learning Test, # words learned",Cognitive,COG - memory,1,40,9.9,NR,NR,0.13
+Barnes et al.,2013,Cognitive,Active Control,Group,31,73.8,41.9,71,NR,9,12,1,3,"Rey Auditory Verbal Learning Test, # words recalled",Cognitive,COG - memory,1,7.2,4.1,NR,NR,-0.1
+Barnes et al.,2013,Cognitive,Active Control,Group,31,73.8,41.9,71,NR,9,12,1,3,"verbal fluency, letter",Cognitive,COG - exec fx,1,12.6,4,NR,NR,0.24
+Barnes et al.,2013,Cognitive,Active Control,Group,31,73.8,41.9,71,NR,9,12,1,3,"verbal fluency, category",Cognitive,COG - language,1,17.2,5.4,NR,NR,0.22
+Barnes et al.,2013,Cognitive,Active Control,Group,31,73.8,41.9,71,NR,9,12,1,3,Digit Symbol Substitution Test,Cognitive,COG - attention,1,54.8,14.6,NR,NR,0.27
+Barnes et al.,2013,Cognitive,Active Control,Group,31,73.8,41.9,71,NR,9,12,1,3,Trails A,Cognitive,COG - attention,-1,36.5,17.1,NR,NR,-0.03
+Barnes et al.,2013,Cognitive,Active Control,Group,31,73.8,41.9,71,NR,9,12,1,3,Trails B,Cognitive,COG - exec fx,-1,94.7,46.4,NR,NR,0.13
+Barnes et al.,2013,Cognitive,Active Control,Group,31,73.8,41.9,71,NR,9,12,1,3,"Eriksen Flanker Test, congruent reaction time",Cognitive,COG - exec fx,-1,612.8,116.1,NR,NR,-0.17
+Barnes et al.,2013,Cognitive,Active Control,Group,31,73.8,41.9,71,NR,9,12,1,3,"Eriksen Flanker Test, incongruent reaction time",Cognitive,COG - exec fx,-1,700.4,151,NR,NR,-0.15
+Barnes et al.,2013,Cognitive,Active Control,Group,31,73.8,41.9,71,NR,9,12,1,3,"Useful Field of View, processing speed",Cognitive,COG - attention,-1,34.9,33.3,NR,NR,-0.17
+Barnes et al.,2013,Cognitive,Active Control,Group,31,73.8,41.9,71,NR,9,12,1,3,"Useful Field of View, divided attention",Cognitive,COG - attention,-1,118.4,116,NR,NR,-0.6
+Barnes et al.,2013,Cognitive,Active Control,Group,31,73.8,41.9,71,NR,9,12,1,3,"Useful Field of View, selective attention",Cognitive,COG - attention,-1,228.8,116.8,NR,NR,-0.34
+Barnes et al.,2013,Exercise,Active Control,Group,31,71.1,32.3,54.8,NR,9,12,1,3,"Rey Auditory Verbal Learning Test, # words learned",Cognitive,COG - memory,1,41.5,9,NR,NR,0.14
+Barnes et al.,2013,Exercise,Active Control,Group,31,71.1,32.3,54.8,NR,9,12,1,3,"Rey Auditory Verbal Learning Test, # words recalled",Cognitive,COG - memory,1,8.3,2.8,NR,NR,0.02
+Barnes et al.,2013,Exercise,Active Control,Group,31,71.1,32.3,54.8,NR,9,12,1,3,"verbal fluency, letter",Cognitive,COG - exec fx,1,12.4,5.3,NR,NR,0.08
+Barnes et al.,2013,Exercise,Active Control,Group,31,71.1,32.3,54.8,NR,9,12,1,3,"verbal fluency, category",Cognitive,COG - language,1,18.3,5.1,NR,NR,-0.07
+Barnes et al.,2013,Exercise,Active Control,Group,31,71.1,32.3,54.8,NR,9,12,1,3,Digit Symbol Substitution Test,Cognitive,COG - attention,1,58.1,13.9,NR,NR,0.19
+Barnes et al.,2013,Exercise,Active Control,Group,31,71.1,32.3,54.8,NR,9,12,1,3,Trails A,Cognitive,COG - attention,-1,37.2,14.5,NR,NR,-0.12
+Barnes et al.,2013,Exercise,Active Control,Group,31,71.1,32.3,54.8,NR,9,12,1,3,Trails B,Cognitive,COG - exec fx,-1,102.9,56.9,NR,NR,-0.18
+Barnes et al.,2013,Exercise,Active Control,Group,31,71.1,32.3,54.8,NR,9,12,1,3,"Eriksen Flanker Test, congruent reaction time",Cognitive,COG - exec fx,-1,600.8,153.7,NR,NR,0.01
+Barnes et al.,2013,Exercise,Active Control,Group,31,71.1,32.3,54.8,NR,9,12,1,3,"Eriksen Flanker Test, incongruent reaction time",Cognitive,COG - exec fx,-1,685.2,115.7,NR,NR,-0.07
+Barnes et al.,2013,Exercise,Active Control,Group,31,71.1,32.3,54.8,NR,9,12,1,3,"Useful Field of View, processing speed",Cognitive,COG - attention,-1,36.5,49.3,NR,NR,-0.04
+Barnes et al.,2013,Exercise,Active Control,Group,31,71.1,32.3,54.8,NR,9,12,1,3,"Useful Field of View, divided attention",Cognitive,COG - attention,-1,129.3,137.1,NR,NR,-0.17
+Barnes et al.,2013,Exercise,Active Control,Group,31,71.1,32.3,54.8,NR,9,12,1,3,"Useful Field of View, selective attention",Cognitive,COG - attention,-1,217.3,99.6,NR,NR,-0.14
+Barnes et al.,2013,Control,Active Control,Group,32,73.9,37.5,68.8,NR,9,12,1,3,"Rey Auditory Verbal Learning Test, # words learned",Cognitive,COG - memory,1,41,8.9,NR,NR,0.33
+Barnes et al.,2013,Control,Active Control,Group,32,73.9,37.5,68.8,NR,9,12,1,3,"Rey Auditory Verbal Learning Test, # words recalled",Cognitive,COG - memory,1,7.3,2.6,NR,NR,0.01
+Barnes et al.,2013,Control,Active Control,Group,32,73.9,37.5,68.8,NR,9,12,1,3,"verbal fluency, letter",Cognitive,COG - exec fx,1,12.8,3.7,NR,NR,-0.05
+Barnes et al.,2013,Control,Active Control,Group,32,73.9,37.5,68.8,NR,9,12,1,3,"verbal fluency, category",Cognitive,COG - language,1,18.9,5.1,NR,NR,0.06
+Barnes et al.,2013,Control,Active Control,Group,32,73.9,37.5,68.8,NR,9,12,1,3,Digit Symbol Substitution Test,Cognitive,COG - attention,1,55.7,13.9,NR,NR,0.15
+Barnes et al.,2013,Control,Active Control,Group,32,73.9,37.5,68.8,NR,9,12,1,3,Trails A,Cognitive,COG - attention,-1,41.6,15.3,NR,NR,-0.36
+Barnes et al.,2013,Control,Active Control,Group,32,73.9,37.5,68.8,NR,9,12,1,3,Trails B,Cognitive,COG - exec fx,-1,100.9,47.6,NR,NR,-0.22
+Barnes et al.,2013,Control,Active Control,Group,32,73.9,37.5,68.8,NR,9,12,1,3,"Eriksen Flanker Test, congruent reaction time",Cognitive,COG - exec fx,-1,622.2,113,NR,NR,-0.17
+Barnes et al.,2013,Control,Active Control,Group,32,73.9,37.5,68.8,NR,9,12,1,3,"Eriksen Flanker Test, incongruent reaction time",Cognitive,COG - exec fx,-1,691.1,135.8,NR,NR,-0.12
+Barnes et al.,2013,Control,Active Control,Group,32,73.9,37.5,68.8,NR,9,12,1,3,"Useful Field of View, processing speed",Cognitive,COG - attention,-1,33.7,39.7,NR,NR,-0.23
+Barnes et al.,2013,Control,Active Control,Group,32,73.9,37.5,68.8,NR,9,12,1,3,"Useful Field of View, divided attention",Cognitive,COG - attention,-1,115.5,116.1,NR,NR,-0.13
+Barnes et al.,2013,Control,Active Control,Group,32,73.9,37.5,68.8,NR,9,12,1,3,"Useful Field of View, selective attention",Cognitive,COG - attention,-1,238.9,107.8,NR,NR,-0.18
+Fabre et al.,1999,Exercise,NR,Group,8,65.4,25,100,NR,6,8,1,2,Wechsler Memory Scale - Memory Quotient,Cognitive,COG - memory,1,102.4,14.9,NR,NR,8.704
+Fabre et al.,2001,Cognitive,NR,Group,8,67.5,12.5,100,NR,6,8,1.5,1,Wechsler Memory Scale - Memory Quotient,Cognitive,COG - memory,1,110.7,7.3,NR,NR,8.1918
+Fabre et al.,2003,Combined,NR,Group,8,64.9,12.5,100,NR,6,8,2.5,3,Wechsler Memory Scale - Memory Quotient,Cognitive,COG - memory,1,101.9,6.5,NR,NR,9.3748
+Fabre et al.,2005,Control,NR,Group,8,65.7,12.5,100,NR,6,8,NR,NR,Wechsler Memory Scale - Memory Quotient,Cognitive,COG - memory,1,108.6,12.7,NR,NR,1
+Lautenschlager et al.,2008,Exercise,Active Control,Individual,85,68.7,48.2,NR,NR,8,24,0.833,3,Total Alzheimer Disease Assessment Scale-Cog,Cognitive,COG - global,-1,7,1.8,NR,NR,-0.04
+Lautenschlager et al.,2008,Exercise,Active Control,Individual,85,68.7,48.2,NR,NR,8,24,0.833,3,Consortium to Establish a Registry for Alzheimer’s Disease (CERAD) - word list immediate recall,Cognitive,COG - memory,1,17.4,4.7,NR,NR,1.19
+Lautenschlager et al.,2008,Exercise,Active Control,Individual,85,68.7,48.2,NR,NR,8,24,0.833,3,Consortium to Establish a Registry for Alzheimer’s Disease (CERAD) -  word list delayed recall,Cognitive,COG - memory,1,5.5,2.4,NR,NR,-0.02
+Lautenschlager et al.,2008,Exercise,Active Control,Individual,85,68.7,48.2,NR,NR,8,24,0.833,3,Digit symbol coding,Cognitive,COG - attention,1,53.4,14.1,NR,NR,3.02
+Lautenschlager et al.,2008,Exercise,Active Control,Individual,85,68.7,48.2,NR,NR,8,24,0.833,3,DKEFS verbal fluency,Cognitive,COG - exec fx,1,39.5,13.1,NR,NR,1.42
+Lautenschlager et al.,2008,Exercise,Active Control,Individual,85,68.7,48.2,NR,NR,8,24,0.833,3,Clinical Dementia Rating - Sum of boxes,Questionnaire,SELF-REPORT - Cog,-1,1,0.7,NR,NR,-0.2
+Lautenschlager et al.,2008,Exercise,Active Control,Individual,85,68.7,48.2,NR,NR,8,24,0.833,3,Beck Depression Inventory,Questionnaire,SELF-REPORT - Non-Cog,-1,4.1,2.8,NR,NR,-0.51
+Lautenschlager et al.,2008,Exercise,Active Control,Individual,85,68.7,48.2,NR,NR,8,24,0.833,3,Physical Component Summary (PCS) - SF-36,Questionnaire,SELF-REPORT - Non-Cog,1,49.4,8.7,NR,NR,-4.69
+Lautenschlager et al.,2008,Exercise,Active Control,Individual,85,68.7,48.2,NR,NR,8,24,0.833,3,Mental Component Summary  (MCS) - SF-36,Questionnaire,SELF-REPORT - Non-Cog,1,48.1,5.5,NR,NR,2.74
+Lautenschlager et al.,2008,Control,Active Control,Individual,85,68.6,50.6,NR,NR,8,24,NR,NR,Total Alzheimer Disease Assessment Scale-Cog,Cognitive,COG - global,-1,7,1.7,NR,NR,-0.73
+Lautenschlager et al.,2008,Control,Active Control,Individual,85,68.6,50.6,NR,NR,8,24,NR,NR,Consortium to Establish a Registry for Alzheimer’s Disease (CERAD) - word list immediate recall,Cognitive,COG - memory,1,18.4,4.9,NR,NR,1.56
+Lautenschlager et al.,2008,Control,Active Control,Individual,85,68.6,50.6,NR,NR,8,24,NR,NR,Consortium to Establish a Registry for Alzheimer’s Disease (CERAD) -  word list delayed recall,Cognitive,COG - memory,1,5.8,2.6,NR,NR,0.76
+Lautenschlager et al.,2008,Control,Active Control,Individual,85,68.6,50.6,NR,NR,8,24,NR,NR,Digit symbol coding,Cognitive,COG - attention,1,54.2,15.1,NR,NR,3.72
+Lautenschlager et al.,2008,Control,Active Control,Individual,85,68.6,50.6,NR,NR,8,24,NR,NR,DKEFS verbal fluency,Cognitive,COG - exec fx,1,37.8,11.5,NR,NR,1.9
+Lautenschlager et al.,2008,Control,Active Control,Individual,85,68.6,50.6,NR,NR,8,24,NR,NR,Clinical Dementia Rating - Sum of boxes,Questionnaire,SELF-REPORT - Cog,-1,1,0.7,NR,NR,-0.33
+Lautenschlager et al.,2008,Control,Active Control,Individual,85,68.6,50.6,NR,NR,8,24,NR,NR,Beck Depression Inventory,Questionnaire,SELF-REPORT - Non-Cog,-1,3.6,3.5,NR,NR,-0.46
+Lautenschlager et al.,2008,Control,Active Control,Individual,85,68.6,50.6,NR,NR,8,24,NR,NR,Physical Component Summary (PCS) - SF-36,Questionnaire,SELF-REPORT - Non-Cog,1,48.5,9.4,NR,NR,-4.85
+Lautenschlager et al.,2008,Control,Active Control,Individual,85,68.6,50.6,NR,NR,8,24,NR,NR,Mental Component Summary  (MCS) - SF-36,Questionnaire,SELF-REPORT - Non-Cog,1,48.4,7,NR,NR,4.58
+Hoogenhout et al.,2012,Cognitive,Waitlist Control,Group,24,66,0,100,29.24,7,4,1.5,2,Maastricht Metacognition Inventory (MMI) - Ability,Questionnaire,SELF-REPORT - Cog,-1,46.83,9.44,45.5,10.07,NR
+Hoogenhout et al.,2012,Cognitive,Waitlist Control,Group,24,66,0,100,29.24,7,4,1.5,2,Maastricht Metacognition Inventory (MMI) - Affect,Questionnaire,SELF-REPORT - Non-Cog,-1,30.5,6.65,28.04,7.93,NR
+Hoogenhout et al.,2012,Cognitive,Waitlist Control,Group,24,66,0,100,29.24,7,4,1.5,2,Maastricht Metacognition Inventory (MMI) - Control,Questionnaire,SELF-REPORT - Cog,-1,12.13,2.91,11.58,3.73,NR
+Hoogenhout et al.,2012,Cognitive,Waitlist Control,Group,24,66,0,100,29.24,7,4,1.5,2,Maastricht Metacognition Inventory (MMI) - Strategy,Questionnaire,SELF-REPORT - Cog,-1,42.58,4.13,43.71,4.23,NR
+Hoogenhout et al.,2012,Cognitive,Waitlist Control,Group,24,66,0,100,29.24,7,4,1.5,2,Memory Quotient (MQ),Cognitive,COG - memory,1,109.2,14.62,117.3,15.32,NR
+Hoogenhout et al.,2012,Cognitive,Waitlist Control,Group,24,66,0,100,29.24,7,4,1.5,2,Executive functioning and Speed Quotient (ESQ),Cognitive,COG - global,1,108.04,6.8,106.97,7.34,NR
+Hoogenhout et al.,2012,Cognitive,Waitlist Control,Group,24,66,0,100,29.24,7,4,1.5,2,Psychological Well-being Quotient (PWQ),Questionnaire,SELF-REPORT - Non-Cog,1,103.72,14.93,104.43,13.15,NR
+Hoogenhout et al.,2012,Control,Waitlist Control,Individual,26,66.1,0,100,29.11,7,NR,NR,NR,Maastricht Metacognition Inventory (MMI),Questionnaire,SELF-REPORT - Cog,-1,50.12,10.61,49.92,11.37,NR
+Hoogenhout et al.,2012,Control,Waitlist Control,Individual,26,66.1,0,100,29.11,7,NR,NR,NR,Maastricht Metacognition Inventory (MMI) - Affect,Questionnaire,SELF-REPORT - Non-Cog,-1,32.81,8.51,33.04,9.08,NR
+Hoogenhout et al.,2012,Control,Waitlist Control,Individual,26,66.1,0,100,29.11,7,NR,NR,NR,Maastricht Metacognition Inventory (MMI) - Control,Questionnaire,SELF-REPORT - Cog,-1,13.77,4.11,13.12,3.89,NR
+Hoogenhout et al.,2012,Control,Waitlist Control,Individual,26,66.1,0,100,29.11,7,NR,NR,NR,Maastricht Metacognition Inventory (MMI) - Strategy,Questionnaire,SELF-REPORT - Non-Cog,-1,43.65,4.84,43.5,3.81,NR
+Hoogenhout et al.,2012,Control,Waitlist Control,Individual,26,66.1,0,100,29.11,7,NR,NR,NR,Memory Quotient (MQ),Cognitive,COG - memory,1,102.86,16.23,105.63,17.8,NR
+Hoogenhout et al.,2012,Control,Waitlist Control,Individual,26,66.1,0,100,29.11,7,NR,NR,NR,Executive functioning and Speed Quotient (ESQ),Cognitive,COG - global,1,105.37,12.91,107.05,9.83,NR
+Hoogenhout et al.,2012,Control,Waitlist Control,Individual,26,66.1,0,100,29.11,7,NR,NR,NR,Psychological Well-being Quotient (PWQ),Questionnaire,SELF-REPORT - Non-Cog,1,96.57,16.31,97.93,15.46,NR
+Kwok et al.,2013,Cognitive,Active Control,Group,86,77.41,12.8,0,25.74,3,8,1,1,Chinese version of the Mattis Dementia Rating Scale (CDRS),Cognitive,COG - global,1,145.68,14.42,157.92,8.19,12.24
+Kwok et al.,2013,Cognitive,Active Control,Group,86,77.41,12.8,0,25.74,3,8,1,1,Subdomain,Cognitive,COG - attention,1,33.11,2.82,34.64,1.88,1.52
+Kwok et al.,2013,Cognitive,Active Control,Group,86,77.41,12.8,0,25.74,3,8,1,1,Subdomain,Cognitive,COG - exec fx,1,43.88,6.03,46.2,4.59,2.33
+Kwok et al.,2013,Cognitive,Active Control,Group,86,77.41,12.8,0,25.74,3,8,1,1,Subdomain,Cognitive,COG - visuospatial,1,5.17,1.32,5.38,1.23,0.21
+Kwok et al.,2013,Cognitive,Active Control,Group,86,77.41,12.8,0,25.74,3,8,1,1,Subdomain,Cognitive,COG - exec fx,1,27.56,5.8,33.21,2.83,5.65
+Kwok et al.,2013,Cognitive,Active Control,Group,86,77.41,12.8,0,25.74,3,8,1,1,Subdomain,Cognitive,COG - memory,1,29.45,3.69,31.71,2.67,2.26
+Kwok et al.,2013,Cognitive,Active Control,Group,86,77.41,12.8,0,25.74,3,8,1,1,12-item Short-Form Health Survey total (SF12),Questionnaire,SELF-REPORT - Non-Cog,1,88.62,13.88,96.44,13.67,7.82
+Kwok et al.,2013,Cognitive,Active Control,Group,86,77.41,12.8,0,25.74,3,8,1,1,Subdomain,Questionnaire,SELF-REPORT - Non-Cog,1,38.95,10.29,39.23,11.28,0.28
+Kwok et al.,2013,Cognitive,Active Control,Group,86,77.41,12.8,0,25.74,3,8,1,1,Subdomain,Questionnaire,SELF-REPORT - Non-Cog,1,49.66,11.54,57.2,9.23,7.54
+Kwok et al.,2013,Control,Active Control,Group,90,73.5,16.7,0,26.09,3,8,NR,NR,Chinese version of the Mattis Dementia Rating Scale (CDRS),Cognitive,COG - global,1,152.8,10.73,157.17,8.23,4.37
+Kwok et al.,2013,Control,Active Control,Group,90,73.5,16.7,0,26.09,3,8,NR,NR,Subdomain,Cognitive,COG - attention,1,34,2.84,34.56,1.81,0.56
+Kwok et al.,2013,Control,Active Control,Group,90,73.5,16.7,0,26.09,3,8,NR,NR,Subdomain,Cognitive,COG - exec fx,1,45.76,4.84,46.39,3.95,0.63
+Kwok et al.,2013,Control,Active Control,Group,90,73.5,16.7,0,26.09,3,8,NR,NR,Subdomain,Cognitive,COG - visuospatial ,1,5.53,0.95,5.3,1.25,-0.23
+Kwok et al.,2013,Control,Active Control,Group,90,73.5,16.7,0,26.09,3,8,NR,NR,Subdomain,Cognitive,COG - exec fx,1,31.62,3.92,33.71,3.42,2.09
+Kwok et al.,2013,Control,Active Control,Group,90,73.5,16.7,0,26.09,3,8,NR,NR,Subdomain,Cognitive,COG - memory,1,30.06,3.52,31.38,2.59,1.78
+Kwok et al.,2013,Control,Active Control,Group,90,73.5,16.7,0,26.09,3,8,NR,NR,12-item Short-Form Health Survey total (SF12),Questionnaire,SELF-REPORT - Non-Cog,1,94.24,14.66,97.42,14.25,3.18
+Kwok et al.,2013,Control,Active Control,Group,90,73.5,16.7,0,26.09,3,8,NR,NR,Subdomain,Questionnaire,SELF-REPORT - Non-Cog,1,42.76,10.03,42.85,9.23,0.09
+Kwok et al.,2013,Control,Active Control,Group,90,73.5,16.7,0,26.09,3,8,NR,NR,Subdomain,Questionnaire,SELF-REPORT - Non-Cog,1,51.48,11.14,54.56,9.02,3.08
+Tsai et al.,2008,Cognitive,Active Control,Group,14,69.4,NR,0,26.71,2,5,2,2,Alzheimer Disease Assessment Scale-Cog,Cognitive,COG - global,-1,7.88,3.15,3.2,1.65,NR
+Tsai et al.,2008,Cognitive,Active Control,Group,14,69.4,NR,0,26.71,2,5,2,2,Mini Mental State Examination,Cognitive,COG - global,1,26.71,1.85,28.64,1.21,NR
+Tsai et al.,2008,Cognitive,Active Control,Group,14,69.4,NR,0,26.71,2,5,2,2,Selective reminding test,Cognitive,COG - memory,1,8.42,2.68,9.71,3.33,NR
+Tsai et al.,2008,Cognitive,Active Control,Group,14,69.4,NR,0,26.71,2,5,2,2,Clock drawing test,Cognitive,COG - exec fx,1,16,0,15.42,1.34,NR
+Tsai et al.,2008,Control,Active Control,Group,11,69.4,NR,0,25.54,2,8,1.5,1,Alzheimer Disease Assessment Scale-Cog,Cognitive,COG - global,-1,6.76,3.92,3.91,1.73,NR
+Tsai et al.,2008,Control,Active Control,Group,11,69.4,NR,0,25.54,2,8,1.5,1,Mini Mental State Examination,Cognitive,COG - global,1,25.54,2.76,28.54,1.12,NR
+Tsai et al.,2008,Control,Active Control,Group,11,69.4,NR,0,25.54,2,8,1.5,1,Selective reminding test,Cognitive,COG - memory,1,10,1.51,10,1.73,NR
+Tsai et al.,2008,Control,Active Control,Group,11,69.4,NR,0,25.54,2,8,1.5,1,Clock drawing test,Cognitive,COG - exec fx,1,14.27,2.332,16,0,NR
+Cohen-Mansfield et al.,2015,Cognitive,Waitlist Control,Group,15,72.8,40,NR,27.93,5,10,NR,NR,Global Cognitive Score,Cognitive,COG - global,1,97.71,8.44,101.98,7.77,NR
+Cohen-Mansfield et al.,2015,Cognitive,Waitlist Control,Group,15,72.8,40,NR,27.93,5,10,NR,NR,UCLA Loneliness Scale,Questionnaire,SELF-REPORT - Non-Cog,1,3.11,0.68,3.37,0.58,NR
+Cohen-Mansfield et al.,2015,Cognitive,Waitlist Control,Group,15,72.8,40,NR,27.93,5,10,NR,NR,Impact of Health Problems,Questionnaire,SELF-REPORT - Non-Cog,-1,1.75,0.75,1.92,0.79,NR
+Cohen-Mansfield et al.,2015,Control,Waitlist Control,Group,14,73.8,21.5,NR,28.8,5,10,NR,NR,Global Cognitive Score,Cognitive,COG - global,1,100.51,8.91,100.57,9.06,NR
+Cohen-Mansfield et al.,2015,Control,Waitlist Control,Group,14,73.8,21.5,NR,28.8,5,10,NR,NR,UCLA Loneliness Scale,Questionnaire,SELF-REPORT - Non-Cog,1,3.22,0.54,3.17,0.62,NR
+Cohen-Mansfield et al.,2015,Control,Waitlist Control,Group,14,73.8,21.5,NR,28.8,5,10,NR,NR,Impact of Health Problems,Questionnaire,SELF-REPORT - Non-Cog,-1,1.64,0.56,1.82,0.48,NR
+Fairchild & Scogin,2010,Cognitive,Active Control,NR,28,73.45,17.86,85.71,NR,5,6,45,1,Immediate recall on Names and Faces Task,Cognitive,COG - memory,1,2.93,2.37,5.96,2.95,NR
+Fairchild & Scogin,2010,Cognitive,Active Control,NR,28,73.45,17.86,85.71,NR,5,6,45,1,Delayed recall on Names and Faces task,Cognitive,COG - memory,1,2.04,2.42,4.96,2.94,NR
+Fairchild & Scogin,2010,Cognitive,Active Control,NR,28,73.45,17.86,85.71,NR,5,6,45,1,Multifactorial Memory Questionnaire -contentment scale,Questionnaire,SELF-REPORT - Cog,1,39.5,12,47.75,8.7,NR
+Fairchild & Scogin,2010,Cognitive,Active Control,NR,28,73.45,17.86,85.71,NR,5,6,45,1,Multifactorial Memory Questionnaire-abilities scale,Questionnaire,SELF-REPORT - Cog,1,42.43,10.28,50.14,9.95,NR
+Fairchild & Scogin,2010,Cognitive,Active Control,NR,28,73.45,17.86,85.71,NR,5,6,45,1,Multifactorial Memory Questionnaire-strategies scale,Questionnaire,SELF-REPORT - Cog,1,35.39,11.49,39.86,13.41,NR
+Fairchild & Scogin,2010,Cognitive,Active Control,NR,28,73.45,17.86,85.71,NR,5,6,45,1,Object misplacement task - do you know where it is?,Questionnaire,SELF-REPORT - Cog,1,0.96,0.09,0.98,0.06,NR
+Fairchild & Scogin,2010,Cognitive,Active Control,NR,28,73.45,17.86,85.71,NR,5,6,45,1,Object misplacement task - have you misplaced it recently?,Questionnaire,SELF-REPORT - Cog,-1,0.84,0.22,0.94,0.11,NR
+Fairchild & Scogin,2010,Cognitive,Active Control,NR,28,73.45,17.86,85.71,NR,5,6,45,1,Positive and Negative Affect Schedule (PANAS) - Positive affect,Questionnaire,SELF-REPORT - Non-Cog,1,32.46,7.04,33.71,4.78,NR
+Fairchild & Scogin,2010,Cognitive,Active Control,NR,28,73.45,17.86,85.71,NR,5,6,45,1,Positive and Negative Affect Schedule (PANAS) - Negative affect,Questionnaire,SELF-REPORT - Non-Cog,-1,16.86,6.4,16.89,6.6,NR
+Fairchild & Scogin,2010,Control,Active Control,NR,25,71.24,20,68,NR,5,6,0.17,0.33,Immediate recall on Names and Faces Task,Cognitive,COG - memory,1,1.72,1.46,2.12,1.67,NR
+Fairchild & Scogin,2010,Control,Active Control,NR,25,71.24,20,68,NR,5,6,0.17,0.33,Delayed recall on Names and Faces task,Cognitive,COG - memory,1,1.2,1.29,1.68,1.38,NR
+Fairchild & Scogin,2010,Control,Active Control,NR,25,71.24,20,68,NR,5,6,0.17,0.33,Multifactorial Memory Questionnaire -contentment scale,Questionnaire,SELF-REPORT - Cog,1,41.16,11.59,39.48,13.86,NR
+Fairchild & Scogin,2010,Control,Active Control,NR,25,71.24,20,68,NR,5,6,0.17,0.33,Multifactorial Memory Questionnaire-abilities scale,Questionnaire,SELF-REPORT - Cog,1,48.56,13.5,49.44,12.85,NR
+Fairchild & Scogin,2010,Control,Active Control,NR,25,71.24,20,68,NR,5,6,0.17,0.33,Multifactorial Memory Questionnaire-strategies scale,Questionnaire,SELF-REPORT - Cog,1,30.24,11.42,29.12,13.86,NR
+Fairchild & Scogin,2010,Control,Active Control,NR,25,71.24,20,68,NR,5,6,0.17,0.33,Object misplacement task - do you know where it is?,Questionnaire,SELF-REPORT - Cog,1,0.91,0.17,0.88,0.18,NR
+Fairchild & Scogin,2010,Control,Active Control,NR,25,71.24,20,68,NR,5,6,0.17,0.33,Object misplacement task - have you misplaced it recently?,Questionnaire,SELF-REPORT - Cog,-1,0.86,0.18,0.83,0.22,NR
+Fairchild & Scogin,2010,Control,Active Control,NR,25,71.24,20,68,NR,5,6,0.17,0.33,Positive and Negative Affect Schedule (PANAS) - Positive affect,Questionnaire,SELF-REPORT - Non-Cog,1,33.64,9.89,32.12,7.83,NR
+Fairchild & Scogin,2010,Control,Active Control,NR,25,71.24,20,68,NR,5,6,0.17,0.33,Positive and Negative Affect Schedule (PANAS) - Negative affect,Questionnaire,SELF-REPORT - Non-Cog,-1,17.48,7.23,16.16,6.26,NR
+Smart et al.,2016,Cognitive,Active Control,Group,8,69.6,26.67,91.7,28,9,8,2,1,Cognitive Complaints Index,Questionnaire,SELF-REPORT - Cog,-1,27.13,12.61,26,12.46,NR
+Smart et al.,2016,Cognitive,Active Control,Group,8,69.6,26.67,91.7,28,9,8,2,1,Five-Facet Mindfulness Questionnaire,Questionnaire,SELF-REPORT - Non-Cog,1,78.75,12.51,80.63,11.02,NR
+Smart et al.,2016,Cognitive,Active Control,Group,8,69.6,26.67,91.7,28,9,8,2,1,Go/No-go - RT Mean,Cognitive,COG - exec fx,-1,388.14,52.16,372.4,31.78,NR
+Smart et al.,2016,Cognitive,Active Control,Group,8,69.6,26.67,91.7,28,9,8,2,1,Go/No-go - Proportion Accuracy,Cognitive,COG - exec fx,1,0.9,0.03,0.92,0.04,NR
+Smart et al.,2016,Cognitive,Active Control,Group,8,69.6,26.67,91.7,28,9,8,2,1,Go/No-go - RT Intra-Individual Variability,Cognitive,COG - exec fx,-1,9.55,1.98,8.89,1.95,NR
+Smart et al.,2016,Control,Active Control,Group,7,69.6,26.67,91.7,28,9,5,2,1,Cognitive Complaints Index,Questionnaire,SELF-REPORT - Cog,-1,31.17,8.98,28,10.08,NR
+Smart et al.,2016,Control,Active Control,Group,7,69.6,26.67,91.7,28,9,5,2,1,Five-Facet Mindfulness Questionnaire,Questionnaire,SELF-REPORT - Non-Cog,1,83.17,14.96,87.17,17.26,NR
+Smart et al.,2016,Control,Active Control,Group,7,69.6,26.67,91.7,28,9,5,2,1,Go/No-go - RT Mean,Cognitive,COG - exec fx,-1,351.79,26.6,350.97,18.63,NR
+Smart et al.,2016,Control,Active Control,Group,7,69.6,26.67,91.7,28,9,5,2,1,Go/No-go - Proportion Accuracy,Cognitive,COG - exec fx,1,0.88,0.04,0.89,0.04,NR
+Smart et al.,2016,Control,Active Control,Group,7,69.6,26.67,91.7,28,9,5,2,1,Go/No-go - RT Intra-Individual Variability,Cognitive,COG - exec fx,-1,9.05,2.23,9.51,1.93,NR
